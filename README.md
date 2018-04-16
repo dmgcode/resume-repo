@@ -1,30 +1,26 @@
-# This is a large heading
+# Moses O
 
-## This is a smaller heading
+### About Me
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I am a proven team player with excellence in providing support to millions of users and fortune 500 companies around the world.
 
-- This is 
-- an unordered
-- list
+### Currently Projects/Updates
 
-1. This is
-2. an ordered
-3. list
+Projects I am currently involved in include
+- *Dirt Cheap App* for communications in the construction industry
+- *Data Centre Setup* for fintec and crypto services and operations
 
-Here is `some code` in the middle of a sentence
+Certification I am currently working on include
+- *Google IT Support Professional Certificate*
+- *Unix Workbench Certificate*
 
-```
-This is
-a block
-of code
-```
+### Experience 
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Positions I have held in the past include
+1. IT Consultant
+2. Software Engineer
+3. Helpdesk Support
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
 
-vim README.md
+Email mosesakinbiyi@gmail.com to get in touch with me.
